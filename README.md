@@ -33,4 +33,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [ss](ss.png)
 
 # Patika.dev
-[Patika.dev](www.patika.dev )
+[Patika.dev](https://www.patika.dev )
