@@ -31,3 +31,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # Picture of the Project
 [ss](ss.png)
+
+# Patika.dev
+[Patika.dev](www.patika.dev )
